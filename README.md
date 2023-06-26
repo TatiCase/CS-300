@@ -1,4 +1,4 @@
-`<br>What was the problem you were solving in the projects for this course?`<br>
+What was the problem you were solving in the projects for this course?`<br>
 I felt that the main objective for the projects in this course was to research,
 select, and implement the correct and convenient data structures for a given set of data.
 How did you approach the problem? Consider why data structures are important to understand.
