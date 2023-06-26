@@ -1,5 +1,6 @@
 What was the problem you were solving in the projects for this course?
-I felt that the main objective for the projects in this course was to research, select, and implement the correct and convenient data structures for a given set of data.
+I felt that the main objective for the projects in this course was to research, //
+select, and implement the correct and convenient data structures for a given set of data.
 How did you approach the problem? Consider why data structures are important to understand.
 The first step when approaching this problem is to thoroughly analyze your given data set. You must decipher how many pieces of information each piece of data has. This way you can select an appropriate data structure.
 How did you overcome any roadblocks you encountered while going through the activities or project?
